@@ -1,0 +1,20 @@
+{
+    "Question": ["1.Fate smiles ...... those who untiringly grapple with stark\n realities of life.",
+        "2.The miser gazed ...... at the pile of gold coins in front of him.",
+        "3.Catching the earlier train will give us the ...... to do\n some shopping.",
+        "4.I saw a ...... of cows in the field.",
+        "5.The grapes are now ...... enough to be picked.",
+        "6. ______ communication enables us to share your thoughts with others\n by using words in a mutually understanding.",
+        "7.Communication is a part of ....... skills",
+        "8.The ........ is the person who transmits the message",
+        "9._____ is a  complete  mixture of gestures ,movement ,postures\n and tone of voice.",
+        "10.Choose the correct example of oral communication."
+
+    ],
+
+    "Answers":[ 3,1,1,2,3,2,1,3,4,3],
+
+    "Option" : [["with","over","on","round"],["avidly","admiringly","thoughtfully","earnestly"],["chance","luck","possibility","occasion"],[  "group","herd","swarm","flock"],[  "ready","mature","ripe","advanced"],[ "Non verbal","Verbal","Digital","None"],["Soft","Hard","Rough","Short"],[ "Receiver","Driver","Sender","Cleaner"],["Traffic Sign","Feedback","Face to face interaction","Body language"],["News Paper","Report", "Face to face interaction","None"]]
+
+
+}

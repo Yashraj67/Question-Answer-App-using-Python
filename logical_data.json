@@ -1,0 +1,72 @@
+{
+"question":
+[
+        "Q1. Look at this series: 12, 11, 13, 12, 14, 13,? What number \nshould come next?",
+        "Q2. Look at this series: 7, 10, 8, 11, 9, 12,? What number \nshould come next?",
+        "Q3. Which word does NOT belong with the others?",
+        "Q4. CUP : LIP :: BIRD : ?",
+        "Q5. AMB, CLB, BKC, DJC, ?",
+        "Q6. Find the next term in the alphanumeric series:\n Z1A, X2D, V6G, T21J, R88M, P445P, ?",
+        "Q7. Tanya is older than Eric. Cliff is older than Tanya.Eric is older\n than Cliff.If the first two statements are\n true, the third statement is",
+        "Q8. Which word does NOT belong with the others?",
+        "Q9. Here are some words translated from an artificial language.'gorblflur'\nmeans fan,'beltpixngorbl' means ceiling,'fanarthtusl' means\ntile roof.Which word could mean ceiling tile?",
+        "Q10. Which word does NOT belong with the others?"
+
+],
+
+"answers":[4,3,4,3,4,1,2,2,3,3],
+
+"options": [
+
+       [
+            "10",
+            "16",
+            "13",
+            "15"
+       ],
+
+        [
+            "7",
+            "12",
+            "10",
+            "13"
+       ],
+
+        [
+             "index",
+             "glossary",
+             "chapter",
+             "book"
+       ],
+
+        [
+            "GRASS",
+            "FOREST",
+            "BEAK",
+            "BUSH"
+       ],
+
+        [
+            "CJD",
+            "EIF",
+            "EJF",
+            "CID"
+       ],
+
+        [
+            "N2676S",
+            "N2676T",
+            "T2670N",
+            "T2676N"
+       ],
+
+        ["True","False","Uncertain","None"],
+
+        [ "inch","ounce","yard","centimetre"],
+
+        [ "gorbltusl","flurgorbl","pixnarth","fsdfserae"],
+
+        ["tyre","steering wheel","car","engine"]
+
+]
+}

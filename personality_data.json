@@ -1,0 +1,38 @@
+{
+  "question": [
+    "1.You regularly make new friends.",
+    "2.You avoid making phone calls.",
+    "3.You are always confident enough for public speaking.",
+    "4.You usually stay calm, even under a lot of pressure.",
+    "5.At social events, you rarely try to introduce yourself to new people and\n mostly talk to the ones you already know.",
+    "6.You know at first glance how someone is feeling.",
+    "7.You usually prefer just doing what you feel like at any given moment\n instead of planning a particular daily routine.",
+    "8.You rarely worry about whether you make a good impression on people\n you meet.",
+    "9.You enjoy going to art museums.",
+    "10.Seeing other people cry can easily make you feel like you want\n to cry too.",
+    "11.You like books and movies that make you come up with your own\n interpretation of the ending.",
+    "12.You like to have things decided.",
+    "13.You like to get your work done before playing.",
+    "14.You plan work to avoid rushing just before a deadline.",
+    "15.Sometimes You focus so much on the goal that I miss new information.",
+    "16.Your happiness comes more from helping others accomplish things\n than your own accomplishments.",
+    "17.You feel confident that things will work out for you.",
+    "18.You would pass along a good opportunity if you thought someone\n else needed it more.",
+    "19.You usually stay calm, even under a lot of pressure.",
+    "20.You are not very intrigued by things labeled as controversial."
+
+
+  ],
+
+  "options": [
+
+       "Strongly Agree",
+       "Agree",
+       "Neutral",
+       "Disagree",
+       "Strongly Disagree"
+
+
+
+  ]
+}
